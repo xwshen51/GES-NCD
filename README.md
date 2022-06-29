@@ -1,6 +1,6 @@
 # Reframed GES with a Neural Conditional Dependence Measure
 
-This repository contains the code for the UAI 2022 paper *Reframed GES with a Neural Conditional Dependence Measure*. 
+This repository contains the code for the UAI 2022 paper [*Reframed GES with a Neural Conditional Dependence Measure*](https://arxiv.org/abs/2206.08531). 
 
 The code implements the reframed GES algorithm with two nonparametric conditional dependence measures, NCD and RCD, for causal discovery. For practitioners, NCD is neural network based and involves hyperparameter tuning as in most deep learning methods. See Appendix D.2 in the paper for a guideline for hyperparameter tuning. RCD (Azadkia and Chatterjee, 2021) is hyperparameter-free and faster to compute.
 
